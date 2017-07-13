@@ -14,7 +14,7 @@ esp32-cam-demo có thể:
 
 ## Hardware
 
-### Component
+### Các module đi kèm
 
 [ESP32 WIFI UNO](https://iotmaker.vn/esp32-wifi-uno.html)
 
@@ -44,16 +44,16 @@ esp32-cam-demo có thể:
 ### BOM 
 
 | Designator | Package | Quantity | Designation  |
-|-----------------------------------|--------------------------------|----------|--------------|
-| U1	                            | PIN HEADER Straight 2x10       | 1        | CAMERA       |
-| U2                                | TC817			     | 1        | OPTO PC817   |
-| U4                                | PIN HEADER Straight 1x4        | 1        | OLED SSD1306 | 
-| D2                                | LED_0603                       | 1        | LED_Blue     |
-| C1                                | CP_Elec_4x5.3                  | 1        | 10uF/15      |
-| R1				    | R_0603                         | 1        | 220k         |
-| R2,R3			            | R_0603                         | 1        | 10k          |
-| R4                                | R_0603                         | 1        | 4,7K         |
-| J1                                | TerminalBlockPT-3.5mm_2pol     | 1        | CONNECTOR 2  |
+|---------------------|--------------------------------|----------|--------           ------|
+| U1	                  | PIN HEADER Straight 2x10       | 1        | HEADER CAMERA       |
+| U2                      | TC817		           | 1        | OPTO PC817          |
+| U4                      | PIN HEADER Straight 1x4        | 1        | HEADER OLED SSD1306 | 
+| D2                      | LED_0603                       | 1        | LED_Blue            |
+| C1                      | CP_Elec_4x5.3                  | 1        | 10uF/15             |
+| R1			  | R_0603                         | 1        | 220k                |
+| R2,R3		          | R_0603                         | 1        | 10k                 |
+| R4                      | R_0603                         | 1        | 4,7K                |
+| J1                      | TerminalBlockPT-3.5mm_2pol     | 1        | CONNECTOR 2         |
 
 ### Remark
 
