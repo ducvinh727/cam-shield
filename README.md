@@ -44,7 +44,7 @@ esp32-cam-demo có thể:
 ### BOM 
 
 | Designator | Package | Quantity | Designation  |
-|---------------------|--------------------------------|----------|--------           ------|
+|---------------------|--------------------------------|----------|-------------------------|
 | U1	                  | PIN HEADER Straight 2x10       | 1        | HEADER CAMERA       |
 | U2                      | TC817		           | 1        | OPTO PC817          |
 | U4                      | PIN HEADER Straight 1x4        | 1        | HEADER OLED SSD1306 | 
